@@ -11,7 +11,7 @@ In this app, users can easily cook new recipes, learn new cooking techniques by 
 **PlayStore:-** [link](https://play.google.com/store/apps/details?id=com.secretmind.elnamila)
 **AppStore:-** [link](https://apps.apple.com/ae/app/el-namlia/id1557088621)
 
-### Tripal 360 Screen Shots
+### El-namlia Screen Shots
 
 ![App UI](/image1.jpg)
 ![App UI](/image2.jpg)
